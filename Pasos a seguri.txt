@@ -6,8 +6,10 @@
 
 4- Añadir archivos nuevos ----> Git add - A 
 
-5- Subir archivos nuevos a remoto --> Git push 
+5-Guardar archivos nuevos ---> Git commit - m "Pasos a seguir" 
 
-6- Comprobar que los archivos en remoto coinciden
+6- Subir archivos nuevos a remoto --> Git push 
 
-7- Modificar archivos desde el remoto. 
+7- Comprobar que los archivos en remoto coinciden
+
+8- Modificar archivos desde el remoto. 
