@@ -13,3 +13,7 @@
 7- Comprobar que los archivos en remoto coinciden
 
 8- Modificar archivos desde el remoto. 
+
+9- Descargarse los archivos en remoto --> git pull  (fetch origin)
+
+10- Actualizar
