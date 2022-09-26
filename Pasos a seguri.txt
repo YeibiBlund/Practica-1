@@ -5,3 +5,9 @@
 3- Clonar archivo desde Github --> Git clone
 
 4- Añadir archivos nuevos ----> Git add - A 
+
+5- Subir archivos nuevos a remoto --> Git push 
+
+6- Comprobar que los archivos en remoto coinciden
+
+7- Modificar archivos desde el remoto. 
