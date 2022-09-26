@@ -1,0 +1,7 @@
+1- Crear repositorio en Github
+
+2- Abrir aplicacion Github Desktop
+
+3- Clonar archivo desde Github --> Git clone
+
+4- Añadir archivos nuevos ----> Git add - A 
